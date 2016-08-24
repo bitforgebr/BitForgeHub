@@ -1,3 +1,0 @@
-LIBRARY
-	EXPORTS
-		tio_plugin_start
